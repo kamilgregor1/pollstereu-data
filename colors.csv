@@ -3,14 +3,14 @@ CSSD,orange,1
 KDU-CSL,gold,1
 LB-KSCM/LB,darkred,0
 LSU,yellowgreen,0
-Nevi,darkgrey,1
+Nevi,darkgrey,0
 ODA,teal,0
 ODS,blue,1
 OH/OH+LSNS,steelblue,0
 SPR-RSC/RMS,brown,0
 HDZJ/DTJ/SZJ,olive,0
 KSCM,red,1
-SZ,green,1
+SZ,green,0
 DEU,orchid,0
 US/US-DEU,violet,0
 4Koalice,yellow,0
@@ -20,9 +20,9 @@ SNK-ED,mediumvioletred,0
 TOP 09,darkviolet,1
 VV,aquamarine,0
 SPOZ,darkolivegreen,0
-Pirati,black,1
+Pirati,black,0
 Suverenita,magenta,0
 ANO,cyan,1
 Usvit,darkkhaki,0
-Svobodni,seagreen,1
+Svobodni,seagreen,0
 SPD,khaki,0
